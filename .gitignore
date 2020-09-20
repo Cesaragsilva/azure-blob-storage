@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/BlobStorage
+/BlobStorage.Api/bin/Debug/netcoreapp3.1
+/BlobStorage.Api/obj
